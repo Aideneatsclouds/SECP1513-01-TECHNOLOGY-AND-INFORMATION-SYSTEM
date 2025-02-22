@@ -1,0 +1,2 @@
+# REFLECTION
+Based on my experience at the UTM Digital visit, I gained valuable insight into the behind-the-scenes workings of systems and apps like UTM Smart. It was fascinating to see how various departments collaborate to ensure the seamless operation of UTM websites and systems. This experience highlighted the complexity and teamwork involved in maintaining digital infrastructure, which I found both educational and inspiring.

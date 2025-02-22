@@ -1,0 +1,2 @@
+# REFLECTION
+Through this project, I learned that innovation and technology can be combined to address real-world problems effectively. Developing the UDeaf glasses, a system that converts real-time audio into subtitles, highlighted the importance of creating accessible solutions for individuals with hearing impairments. This product has the potential to make a meaningful impact by bridging communication gaps and enhancing the lives of deaf individuals.

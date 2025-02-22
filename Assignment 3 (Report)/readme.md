@@ -1,0 +1,2 @@
+# REFLECTION
+The talk gave me valuable insights and a better understanding of the path I should take as a computer science student. It emphasized the importance of mastering fundamentals, like object-oriented programming (OOP), understanding classes and objects, and focusing on logic and problem-solving rather than just specific programming languages. It also stressed the need to continually develop both technical and soft skills to meet industry demands. Overall, it was an inspiring and helpful session to prepare for what lies ahead.
